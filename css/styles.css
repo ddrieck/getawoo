@@ -1,0 +1,38 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#wooimage {
+	position: fixed;
+	top: 35%;
+	left: 40%;
+	/* Stuff to delete after getting real image */
+	width: 25%;
+	height: 15%;
+	background-color: red;
+}
+
+#email_form {
+	position: fixed;
+	top: 75%;
+	left: 25%;
+	width: 80%;
+}
+
+#email {
+	width: 60%;
+}
+
+#submit {
+	background-color: #F2EEE2;
+}
+
+input {
+	font-family: arial;
+	font-size: 20px;	
+	height: 50px;
+}
