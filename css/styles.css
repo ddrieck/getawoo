@@ -9,11 +9,10 @@ html {
 #wooimage {
 	position: fixed;
 	top: 35%;
-	left: 40%;
+	left: 27.5%;
 	/* Stuff to delete after getting real image */
-	width: 25%;
-	height: 15%;
-	background-color: red;
+	width: 45%;
+	height: 30%;
 }
 
 #email_form {
