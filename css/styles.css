@@ -8,11 +8,11 @@ html {
 
 #wooimage {
 	position: fixed;
-	top: 35%;
-	left: 27.5%;
+	top: 50%;
+	left: 32.5%;
 	/* Stuff to delete after getting real image */
-	width: 45%;
-	height: 30%;
+	width: 35%;
+	height: 20%;
 }
 
 #email_form {
@@ -24,10 +24,11 @@ html {
 
 #email {
 	width: 60%;
+	padding-left: 2%;
 }
 
 #submit {
-	background-color: #F2EEE2;
+	background-color: #f04040;
 }
 
 input {
