@@ -1,6 +1,6 @@
 html { 
-  /* background: url(../images/background.jpg) no-repeat center center fixed; */ 
-  background-color: #232D2F;
+  background: url(../images/background_notexture.jpg) no-repeat center center fixed;
+  /* background-color: #232D2F; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
