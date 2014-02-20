@@ -28,12 +28,42 @@ html {
 	padding-left: 2%;
 }
 
+#email::-webkit-input-placeholder {
+	color: #383838;
+}
+
+#email::-moz-placeholder {
+	color: #383838;
+}
+
 #submit {
 	background-color: #f04040;
+	border: 0px;
+	border-top-left-radius:0px;
+	border-bottom-left-radius:0px;
+ 	-moz-border-top-left-radius:0px;
+ 	-webkit-border-top-left-radius:0px;
+ 	-moz-border-bottom-left-radius:0px;
+ 	-webkit-border-bottom-left-radius:0px;
+	border-top-right-radius:10px;
+	border-bottom-right-radius:10px;
+ 	-moz-border-top-right-radius:10px;
+ 	-webkit-border-top-right-radius:10px;
+ 	-moz-border-bottom-right-radius:10px;
+ 	-webkit-border-bottom-right-radius:10px;
 }
 
 input {
+	background-color: #F2EEE2;
 	font-family: arial;
+	color: #383838;
 	font-size: 20px;	
 	height: 50px;
+	border: 0px;
+	 border-top-left-radius:10px;
+	 border-bottom-left-radius:10px;
+ 	-moz-border-top-left-radius:10px;
+ 	-webkit-border-top-left-radius:10px;
+ 	-moz-border-bottom-left-radius:10px;
+ 	-webkit-border-bottom-left-radius:10px;
 }
